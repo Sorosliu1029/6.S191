@@ -3,20 +3,20 @@
 
 ## Lectures
 
-- [x] [Intro to Deep Learning](https://www.youtube.com/watch?v=alfdI7S6wCY&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=1)
-- [x] [Deep Sequence Modeling: Recurrent Neural Networks, Transformers, and Attention](https://www.youtube.com/watch?v=GvezxUdLrEk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=2)
-- [ ] [Deep Computer Vision: Convolutional Neural Networks](https://www.youtube.com/watch?v=oGpzWAlP5p0&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=4&ab_channel=AlexanderAmini)
-- [ ] [Deep Generative Modeling](https://www.youtube.com/watch?v=SdTZAMDKrNY&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
-- [ ] [Deep Reinforcement Learning](https://www.youtube.com/watch?v=to-lHJfK4pw&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=5)
-- [ ] [New Frontiers: Language Models and New Frontiers](https://www.youtube.com/watch?v=HLKo4fJx_7k&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=6)
-- [ ] [Large Language Models (I): (Google): Large Language Models](https://www.youtube.com/watch?v=ZNodOsz94cc&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=7)
-- [ ] [Large Language Models (II): (Liquid AI): Large Language Models](https://www.youtube.com/watch?v=_HfdncCbMOE&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=9)
-- [ ] [AI in the Wild: (Comet ML): A Hipocratic Oath, for *your* AI](https://www.youtube.com/watch?v=CyCUZAf8xSU&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=80)
-- [ ] [AI for Biology: (Microsoft): AI for Biology](https://www.youtube.com/watch?v=SSzSOeGP87I&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=10)
+- [ ] [Intro to Deep Learning](https://www.youtube.com/watch?v=II4giR4vOOo&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+- [ ] [Deep Sequence Modeling](https://www.youtube.com/watch?v=d02VkQ9MP44&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+- [ ] [Deep Computer Vision](https://www.youtube.com/watch?v=pqIcoskUuWs&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+- [ ] [Deep Generative Modeling](https://www.youtube.com/watch?v=R8V8CbuxryI&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=5)
+- [ ] [Deep Reinforcement Learning](https://www.youtube.com/watch?v=1ij3dweHu-0&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+- [ ] [New Frontiers](https://www.youtube.com/watch?v=ev7cLSd-ySE&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=88)
+- [ ] [AI for Science]
+- [ ] [Secrets to Massively Parallel Training]
+- [ ] [The Three Laws of AI](https://www.youtube.com/watch?v=XKOpA7iaJvg&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
 ## Labs
 
 - [ ] [Deep Learning in Python; Music Generation](https://github.com/MITDeepLearning/introtodeeplearning/tree/master/lab1)
-- [ ] [Facial Detection Systems](https://github.com/MITDeepLearning/introtodeeplearning/tree/master/lab2) [Paper](https://introtodeeplearning.com/AAAI_MitigatingAlgorithmicBias.pdf)
+- [ ] [Facial Detection Systems](https://github.com/MITDeepLearning/introtodeeplearning/tree/master/lab2) 
+        [Paper](https://introtodeeplearning.com/AAAI_MitigatingAlgorithmicBias.pdf)
 - [ ] [Fine-Tune an LLM, You Must!](https://github.com/MITDeepLearning/introtodeeplearning/tree/master/lab3)
 
