@@ -5,7 +5,7 @@
 
 - [x] [Intro to Deep Learning](https://www.youtube.com/watch?v=II4giR4vOOo&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [x] [Deep Sequence Modeling](https://www.youtube.com/watch?v=d02VkQ9MP44&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
-- [ ] [Deep Computer Vision](https://www.youtube.com/watch?v=pqIcoskUuWs&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+- [x] [Deep Computer Vision](https://www.youtube.com/watch?v=pqIcoskUuWs&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [ ] [Deep Generative Modeling](https://www.youtube.com/watch?v=R8V8CbuxryI&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=5)
 - [ ] [Deep Reinforcement Learning](https://www.youtube.com/watch?v=1ij3dweHu-0&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [ ] [New Frontiers](https://www.youtube.com/watch?v=ev7cLSd-ySE&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=88)
