@@ -15,7 +15,8 @@
 
 ## Labs
 
-- [ ] [Deep Learning in Python; Music Generation](https://github.com/MITDeepLearning/introtodeeplearning/tree/master/lab1)
+- [x] [Deep Learning in Python](https://github.com/MITDeepLearning/introtodeeplearning/blob/master/lab1/PT_Part1_Intro.ipynb)
+- [ ] [Music Generation](https://github.com/MITDeepLearning/introtodeeplearning/blob/master/lab1/PT_Part2_Music_Generation.ipynb)
 - [ ] [Facial Detection Systems](https://github.com/MITDeepLearning/introtodeeplearning/tree/master/lab2) 
         [Paper](https://introtodeeplearning.com/AAAI_MitigatingAlgorithmicBias.pdf)
 - [ ] [Fine-Tune an LLM, You Must!](https://github.com/MITDeepLearning/introtodeeplearning/tree/master/lab3)
