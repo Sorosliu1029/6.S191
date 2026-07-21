@@ -19,4 +19,4 @@
 - [x] [Music Generation](https://github.com/MITDeepLearning/introtodeeplearning/blob/master/lab1/PT_Part2_Music_Generation.ipynb)
 - [x] [MNIST Digit Classification](https://github.com/MITDeepLearning/introtodeeplearning/blob/master/lab2/PT_Part1_MNIST.ipynb)
 - [x] [Facial Detection Systems](https://github.com/MITDeepLearning/introtodeeplearning/blob/master/lab2/PT_Part2_Debiasing.ipynb),  [Paper](https://introtodeeplearning.com/AAAI_MitigatingAlgorithmicBias.pdf)
-- [ ] [Fine-Tune an LLM, You Must!](https://github.com/MITDeepLearning/introtodeeplearning/tree/master/lab3)
+- [x] [Fine-Tune an LLM, You Must!](https://github.com/MITDeepLearning/introtodeeplearning/tree/master/lab3)
