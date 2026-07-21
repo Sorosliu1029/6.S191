@@ -11,7 +11,7 @@
 - [x] [New Frontiers](https://www.youtube.com/watch?v=ev7cLSd-ySE&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=88)
 - [x] [The Three Laws of AI](https://www.youtube.com/watch?v=XKOpA7iaJvg&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [x] [AI for Science](https://www.youtube.com/watch?v=rZACoZD8AG8&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
-- [ ] [Secrets to Massively Parallel Training]
+- [x] [Secrets to Massively Parallel Training](https://www.youtube.com/watch?v=UZZD9d9YqnQ&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
 ## Labs
 
